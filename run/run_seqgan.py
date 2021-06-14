@@ -26,7 +26,7 @@ job_id, gpu_id = 1,0
 
 # Executables
 executable = 'python'  # specify your own python interpreter path here
-rootdir = '../save'
+rootdir = '../'
 scriptname = 'main.py'
 
 # ===Program===
