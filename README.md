@@ -37,13 +37,13 @@ Note that codes are adapted from https://github.com/williamSYSU/TextGAN-PyTorch.
 
 - To run SeqGAN
   ```python
-  cd run_scripts
+  cd run
   python run_seqgan.py --train_ratio {train ratio} --trial {trial} --aug {augmentation type}
   ```
 
 - To run RelGAN
   ```python
-  cd run_scripts
+  cd run
   python run_relgan.py --train_ratio {train ratio} --trial {trial} --aug {augmentation type}
   ```
 

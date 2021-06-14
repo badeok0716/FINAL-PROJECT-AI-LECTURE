@@ -26,7 +26,7 @@ job_id, gpu_id = 1,0
 
 # Executables
 executable = 'python'  # specify your own python interpreter path here
-rootdir = '/home/deokjae/TextGAN-PyTorch/'
+rootdir = '../save'
 scriptname = 'main.py'
 
 # ===Program===
